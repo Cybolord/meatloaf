@@ -3,7 +3,7 @@
 
 Commodore 64/128 WiFi Modem and IEC Serial Floppy Drive multi-device emulator
 
-![meatloaf64-device](docs/meatloaf64-device.jpg)
+![meatloaf64-device](docs/meatloaf64-device-dev.jpg)
 
 [Here is a video showing it in action.](https://youtu.be/q6IYi3TIGNI)
 
