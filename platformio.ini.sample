@@ -51,7 +51,7 @@ board = d1_mini_pro
 board_build.f_cpu = 160000000L
 board_build.filesystem = littlefs
 monitor_speed = 2400
-;board_build.ldscript = eagle.flash.8m7m.ld ;Uncomment this line and reflash if your filesystem will calculated to 4GB in size
+;board_build.ldscript = eagle.flash.8m7m.ld ;Uncomment this line and reflash if your filesystem was calculated 4GB in size
 ;board_build.flash_mode = dout ;Uncomment this line and reflash if your device doesn't boot
 
 [env:nodemcuv2]
